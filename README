@@ -1,4 +1,6 @@
-*TraktForVLC*
+## TraktForVLC
+
+>  This project is obselete !
 
 Allow scrobbling VLC content to Trakt. Since VLC has no idea what you are watching the script will attempt to figure out if you are watching a TV show or a Movie based on the name of the video, and it's lenght for movies. So, the script can only work well if your files are named properly.
 
@@ -12,7 +14,7 @@ The script will run until you kill the command.
 
 Install Python 2.7.2 if you don't have it installed already
 
-*Configuration*
+## Configuration
 
 Setup config.ini
 - Set the IP and Port that you entered into VLC. If you entered the above ip and port in VLC then the default are fine.
