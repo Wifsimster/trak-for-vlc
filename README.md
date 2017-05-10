@@ -10,7 +10,7 @@ You can run the script through TraktForVLC.py.
 
 The script will run until you kill the command.
 
-*Installation*
+## Installation
 
 Install Python 2.7.2 if you don't have it installed already
 
@@ -28,5 +28,7 @@ Tools > Preferences > All > Interface > Main Interfaces > RC
 - Input "localhost:4222" into the "TCP command input" box
 
 With commande line
-"vlc.exe" --extraintf=rc --rc-host=localhost:4222 --rc-quiet
 
+```
+"vlc.exe" --extraintf=rc --rc-host=localhost:4222 --rc-quiet
+```
